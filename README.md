@@ -1,1 +1,2 @@
-Proyecto dirigido a desarrollo web.
+###Proyecto dirigido a desarrollo web.
+Mi proyecto es un landing Page
